@@ -1,0 +1,15 @@
+# Ignore bundler config.
+/.bundle
+
+# Ignore all logfiles and tempfiles.
+/log/*
+!/log/.keep
+/tmp
+
+# Global ignore
+*~
+.DS_Store
+*.sw[opna]
+.idea
+.idea/workspace.xml
+.idea/tasks.xml
